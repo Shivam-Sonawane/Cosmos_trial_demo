@@ -1,1 +1,1 @@
-THis code and dataset is for Trail project experiment purpose.
+This code and dataset is for Trail project experiment purpose.
